@@ -1,4 +1,4 @@
-# binpricealarm
+# Binpricealarm
 
 Small little script that watches the prices on Binance's alt-btc pairs, and alerts when they've moved up some % in a given time (hour by default).
 
