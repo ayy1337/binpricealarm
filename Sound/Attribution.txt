@@ -1,0 +1,4 @@
+file: Alarm.wav
+author: Mike Koenig
+url: http://soundbible.com/287-Industrial-Alarm.html
+licence: Creative Commons Attribution 3.0
