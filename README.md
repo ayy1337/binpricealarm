@@ -1,6 +1,6 @@
 # Binpricealarm
 
-Small little script that watches the prices on Binance's alt-btc pairs, and alerts when they've moved up some % in a given time (hour by default).
+Small little script that watches the prices on Binance's alt-btc pairs, and alerts when they've moved up some % (10) in a given time (hour by default).
 
 # Dependencies
 You will need at a minimum the binance API module:
